@@ -1,11 +1,11 @@
-# ML-Regression-Insurance-prediction
+# ML-Regression-Medical-Insurance-prediction
 Using various regression models to predict which model gives more accuracy in predicting the insurance amount.
 
 ## Project Overview
 This project use various regression models Multiple Linear regression,Polynomial Regression model,Support Vector Regression, Decision Tree Regression and Random Forest Regression model to find which model works best to find the cost of insurance based on various factor like age, sex,	bmi, children,smoker and region.
 
 ## Project Objectives
-To build a model to predict the cost of insurance based on certain atrributes/values provided by the customer.
+To build a model to predict the cost of medical insurance based on certain atrributes/values provided by the customer.
 This model can help insurance provider to determine the insurance value for a customer.
 
 Link to the dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
