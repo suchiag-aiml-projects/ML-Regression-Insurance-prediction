@@ -2,7 +2,7 @@
 Using various regression models to predict which model gives more accuracy in predicting the insurance amount.
 
 ## Project Overview
-This project use various regression models Multiple Linear regression,Polynomial Regression model,Support Vector Regression, Decision Tree Regression and Random Forest Regression model to find which model works best to find the cost of insurance based on various factor like age, sex,	bmi, children,smoker and region.
+This project use various regression models and they are:  Multiple Linear regression,Polynomial Regression model,Support Vector Regression, Decision Tree Regression and Random Forest Regression model to find which model works best to find the cost of insurance based on various factor like age, sex,	bmi, children,smoker and region.
 
 ## Project Objectives
 To build a model to predict the cost of medical insurance based on certain atrributes/values provided by the customer.
